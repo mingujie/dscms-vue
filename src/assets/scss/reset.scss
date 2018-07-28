@@ -1,0 +1,27 @@
+
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    line-height: 1.6;
+    font-family: "Microsoft Yahei";
+    text-align: left;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+a,img {
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+button:focus{ outline: 0 !important; } 

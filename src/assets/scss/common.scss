@@ -1,0 +1,84 @@
+  .ds-avatar-uploader {
+    text-align: left;
+  }
+  .ds-avatar-uploader .el-upload {
+    border: 1px dashed #d9d9d9;
+    border-radius: 6px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+  }
+  .ds-avatar-uploader  .el-upload:hover {
+    border-color: #409EFF;
+  }
+  .ds-avatar-uploader .ds-avatar-uploader-icon {
+    font-size: 28px;
+    color: #8c939d;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+  }
+  .ds-avatar-uploader .ds-avatar {
+    width: 178px;
+    height: 178px;
+    display: block;
+  }
+
+  .ds-pagination {
+    text-align: left;
+    margin-top: 15px;
+  }
+  // .ds-pagination .el-pagination {
+  //   padding: 0;
+  // }
+
+  .ds-moudle {
+    padding: 20px;
+    height: auto;
+    background-color: #FFF;
+  }
+  .ds-fluid {
+    padding: 15px;
+  }
+
+  .ds-fluid {
+    position: relative;
+    margin: 0 auto;
+    height: auto;
+  }
+
+  .ds-table {
+    th,td {
+      text-align: center !important;
+    }
+    .table-pic {
+      width: 50px;
+      height: 50px;
+      margin: 0 auto;
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  .ds-moudle-hd {
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  .ds-dialog {
+
+  }
+  .ds-dialog .el-dialog__header {
+    text-align: left;
+  }
+
+  .ds-btn.ds-btn-login {
+    width: 100% !important;
+  }
+
+// .ds-tabs {
+//   .el-tab-pane {
+//     padding-top: 10px;
+//   }
+// }
